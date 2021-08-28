@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gymnasy55&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=gymnasy55&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![gymnasy55](https://github-readme-stats.vercel.app/api?username=gymnasy55&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&layout=compact)](https://github.com/gymnasy55/gymnasy55)
+[![gymnasy55-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=gymnasy55&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true&layout=compact)](https://github.com/gymnasy55/gymnasy55)
 
 <p align="center"> 
   <a href="mailto:kubarievilya@gmail.com">
